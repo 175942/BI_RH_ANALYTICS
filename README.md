@@ -1,5 +1,8 @@
 # BI_RH_ANALYTICS
 Dashboard de PeopleAnalytcs
+Este Dashboard ajudou a empresa a saber qual setor precisaria de mais treinamentos quais eram os cargos que precisavam de ajustes
+e ajudou a entender o porque a empresa perdia alguns talentos diminuindo assim o turnover conseguindo reter mais talentos.
+
 
 ![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/8d117f5d-ed62-4842-9726-7a258828164d)
 
@@ -26,6 +29,32 @@ Ao lado temos um gráfico mostrando informações como massa salarial, headcount
 ![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/8c1b69f3-a5c2-4dab-a663-7b28079c1297)
 
 E mais abaixo temos o TURNOVER um dos principais indicadores do RH.
+
+#COMO CRIEI AS MEDIDAS CONTIDAS NA TABELA
+Mov = Contrações - demissões
+
+![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/8764c5d1-1cfa-425e-95a9-0989055aa22b)
+
+
+Calculo do HEADCOUNT
+
+![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/4ad9597b-ff29-4f22-aab7-0387eb79e946)
+
+Massa salarial é igual Soma de salários de funcionários ativos
+
+![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/05a463b6-f0ed-4a4c-ac00-5406686b7138)
+
+HeadCount do ano anterior
+
+![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/a6dfef2a-723e-4e76-ad92-74024e57535f)
+
+Por fim o TURNOVER que é contratações + demissões divido por 2 divido pelo HeadCount ano anterior:
+
+ ![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/0c38ad44-eb2e-41c7-ae42-16864543708e)
+
+
+
+
 
 
 
