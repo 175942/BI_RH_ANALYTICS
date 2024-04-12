@@ -34,6 +34,7 @@ E mais abaixo temos o TURNOVER um dos principais indicadores do RH com alguns fi
 
 
 #COMO CRIEI AS MEDIDAS CONTIDAS NA TABELA
+
 Mov = Contrações - demissões
 
 ![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/8764c5d1-1cfa-425e-95a9-0989055aa22b)
