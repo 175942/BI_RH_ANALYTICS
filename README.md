@@ -28,7 +28,10 @@ Ao lado temos um gráfico mostrando informações como massa salarial, headcount
 
 ![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/8c1b69f3-a5c2-4dab-a663-7b28079c1297)
 
-E mais abaixo temos o TURNOVER um dos principais indicadores do RH.
+E mais abaixo temos o TURNOVER um dos principais indicadores do RH com alguns filtros.
+
+![image](https://github.com/175942/BI_RH_ANALYTICS/assets/162825773/5d53b681-9b6d-4c9b-b7e7-2dd9ff7d22ae)
+
 
 #COMO CRIEI AS MEDIDAS CONTIDAS NA TABELA
 Mov = Contrações - demissões
